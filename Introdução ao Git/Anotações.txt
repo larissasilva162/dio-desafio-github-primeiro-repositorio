@@ -1,5 +1,7 @@
 link para download do git https://git-scm.com/downloads
 
+Comandos básicos
+
 Git add
 Este comando adiciona os arquivos solicitados ao ambiente de stage, é uma forma de dizer para o git que você deseja que as modificações daquele arquivo sejam gravadas na próxima remessa. Um exemplo de utilização é: git add . onde o ponto representa todos os arquivos na pasta.
 
